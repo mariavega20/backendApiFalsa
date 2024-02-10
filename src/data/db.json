@@ -210,7 +210,38 @@
             {"talla": "m", "color": "dorado", "cantidad": 10}
         ]
     }
-], 
-"ordenesCompra": []
+],
+
+"carrito": [
+    {
+        "id": 0,
+        "idProducto": "",
+        "codigo": "",
+        "nombre": "",
+        "precio": "",
+        "talla": "",
+        "color": "",
+        "variaciones": "",
+        "cantidad": 0,
+        "imagen": "",
+        "total": ""
+    }
+    ],
+    "compras": [
+    {
+        "id": "",
+        "nombre": "",
+        "telefono": "",
+        "direccion": "",
+        "correo": "",
+        "numeroTarjeta": "",
+        "fechaCompra": "",
+        "fechaCaducidad": "",
+        "cvv": "",
+        "total": "",
+        "products": []
+    }
+    ]
 }
+
 
